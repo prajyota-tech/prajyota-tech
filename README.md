@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Prajyota  <br>💻 MCA Student | Aspiring Software Developer  <br>🔍 Interested in Web Development, Java, Machine Learning and Python <br>🌱 Currently learning DSA & building real-world projects  <br>📫 Reach me at: prajyotasamaje@gmail.com<br>
+👋 Hi, I'm Prajyota  <br>💻 MCA Graduated | Aspiring Software Developer  <br>🔍 Interested in Web Development, Java, Machine Learning and Python <br>🌱 Currently learning DSA & building real-world projects  <br>📫 Reach me at: prajyotasamaje@gmail.com<br>
 
 
 ## 🌐 Socials:
